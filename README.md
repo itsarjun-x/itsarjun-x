@@ -33,6 +33,6 @@ Cybersecurity • Ethical Hacking • Penetration Testing • Web Development �
 
 📊 **Most Used Languages:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<a href="https://www.youtube.com/channel/UC-haYD937v1AWz0P1mo6JGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/techno_rabit" height="30" width="40" /></a>
 
 ---
