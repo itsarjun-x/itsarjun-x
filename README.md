@@ -25,10 +25,9 @@ Cybersecurity • Ethical Hacking • Penetration Testing • Web Development �
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/arjun-raj-671569371)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=github&style=for-the-badge)](https://yourportfolio.github.io)  
-[![X Logo](https://img.shields.io/badge/-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/itsarjunx) 
+[![Twitter](https://img.shields.io/badge/X-Connect-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/itsarjunx)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=for-the-badge)](https://instagram.com/__.arjun__aju__)  
 
-![Cybersecurity Student](https://img.shields.io/badge/Cybersecurity-Student-brightgreen?style=for-the-badge&logo=shield-security)
 
 ---
 
