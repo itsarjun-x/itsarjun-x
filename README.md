@@ -1,6 +1,6 @@
 # Hi there, I'm Arjun 👋
 
-## 🚀 **Passionate Cybersecurity Learner | Full-Stack Enthusiast | Exploring the Intersection of Development & Security**
+## **Passionate Cybersecurity Learner | Full-Stack Enthusiast | Exploring the Intersection of Development & Security**
 
 🎓 Currently studying **Cyber Security Analysis** and diving deep into ethical hacking, system vulnerabilities, and modern threat defense.
 
